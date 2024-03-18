@@ -1,0 +1,10 @@
+.title {
+  max-width: 1440px;
+  background-color: rgb(99, 107, 107);
+  margin-bottom: 40px;
+  color: aliceblue;
+}
+
+.title:not(:first-child) {
+  margin-top: 80px;
+}
