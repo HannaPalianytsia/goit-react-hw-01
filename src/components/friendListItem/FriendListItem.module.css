@@ -1,0 +1,16 @@
+.friendImg {
+  width: 60px;
+}
+.friendName {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.33333;
+  letter-spacing: 0.02em;
+  color: #111;
+}
+.online {
+  color: green;
+}
+.offline {
+  color: red;
+}

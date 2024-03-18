@@ -5,29 +5,13 @@ table {
   border-spacing: 0;
   border-collapse: collapse;
   margin-bottom: 20px;
-}
-
-table,
-th,
-td {
   border: 1px solid #ddd;
 }
 
-th,
-td {
+th {
   padding: 8px;
   text-align: center;
-}
-
-th {
   background-color: #111;
   color: white;
-}
-
-tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-
-tr:nth-child(odd) {
-  background-color: #ffffff;
+  border: 1px solid #ddd;
 }
